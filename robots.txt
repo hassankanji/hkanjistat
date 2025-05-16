@@ -1,0 +1,1 @@
+Sitemap: https://hassankanji.github.io/hkanjistat/sitemap.xml
