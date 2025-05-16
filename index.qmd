@@ -11,7 +11,7 @@ about:
       text: Github
       href: https://github.com
     - text: CV
-      file: "HassanKanji_Resume.pdf"
+      url: "HassanKanji_Resume.pdf"
 ---
 
 This is a Quarto website.

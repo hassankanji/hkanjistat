@@ -1,8 +1,8 @@
 {
-  "hash": "9a6b59e1be1298b64eda12e0e70771b9",
+  "hash": "cdcf9b07af903b4fb61455dcb74a9330",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Hassan Kanji\"\nabout:\n  template: trestles\n  image: images/HassanKanji_photo.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - text: CV\n      file: \"HassanKanji_Resume.pdf\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Hassan Kanji\"\nabout:\n  template: trestles\n  image: images/HassanKanji_photo.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - text: CV\n      url: \"HassanKanji_Resume.pdf\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
