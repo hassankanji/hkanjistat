@@ -1,5 +1,17 @@
 ---
-title: "hkanjistat"
+title: "Hassan Kanji"
+about:
+  template: trestles
+  image: images/HassanKanji_photo.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: CV
+      file: "HassanKanji_Resume.pdf"
 ---
 
 This is a Quarto website.
